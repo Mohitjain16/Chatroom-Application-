@@ -1,0 +1,2 @@
+# Chatroom Application 
+This repository contains a fully functional chatroom application implemented in C, utilizing advanced concepts such as Socket Programming and Multithreading. With support for over 500 concurrent users, the application provides a seamless real-time messaging experience. Explore the codebase to understand the intricacies of socket programming and pthreads integration, and contribute to its further development.
